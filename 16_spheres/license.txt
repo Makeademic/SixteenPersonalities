@@ -1,0 +1,11 @@
+Model Information:
+* title:	16 spheres
+* source:	https://sketchfab.com/3d-models/16-spheres-afb0e84ae0554317869dd0c6dcf30258
+* author:	makeademic (https://sketchfab.com/makeademic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "16 spheres" (https://sketchfab.com/3d-models/16-spheres-afb0e84ae0554317869dd0c6dcf30258) by makeademic (https://sketchfab.com/makeademic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
